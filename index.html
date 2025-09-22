@@ -1,0 +1,338 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Research Journey: A PhD Student's Guide</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f8f9fa;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 20px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
+
+        .header {
+            text-align: center;
+            padding: 40px 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 10px;
+            margin-bottom: 40px;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 300;
+        }
+
+        .header p {
+            font-size: 1.2em;
+            opacity: 0.9;
+        }
+
+        .author-info {
+            text-align: center;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            border-left: 4px solid #667eea;
+        }
+
+        .author-info h3 {
+            color: #667eea;
+            margin-bottom: 10px;
+            font-size: 1.3em;
+            font-weight: 500;
+        }
+
+        .author-info p {
+            color: #666;
+            font-size: 1.1em;
+            margin: 0;
+        }
+
+        .section {
+            margin-bottom: 40px;
+            padding: 30px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            border-left: 4px solid #667eea;
+        }
+
+        .section h2 {
+            color: #667eea;
+            margin-bottom: 20px;
+            font-size: 1.8em;
+            font-weight: 400;
+        }
+
+        .preface {
+            font-size: 1.1em;
+            line-height: 1.8;
+            text-align: justify;
+        }
+
+        .preface p {
+            margin-bottom: 20px;
+        }
+
+        .chapter-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            background-color: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+
+        .chapter-table th {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px;
+            text-align: left;
+            font-weight: 500;
+        }
+
+        .chapter-table td {
+            padding: 15px;
+            border-bottom: 1px solid #eee;
+            vertical-align: top;
+        }
+
+        .chapter-table tr:hover {
+            background-color: #f8f9fa;
+        }
+
+        .chapter-table tr:last-child td {
+            border-bottom: none;
+        }
+
+        .chapter-index {
+            width: 80px;
+            text-align: center;
+            font-weight: bold;
+            color: #667eea;
+        }
+
+        .chapter-name {
+            width: 200px;
+            font-weight: 500;
+        }
+
+        .chapter-name a {
+            color: #667eea;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .chapter-name a:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+
+        .chapter-summary {
+            font-size: 0.95em;
+            line-height: 1.5;
+        }
+
+        .welcome-message {
+            background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+            color: white;
+            text-align: center;
+            padding: 40px;
+            border-radius: 10px;
+            margin: 40px 0;
+        }
+
+        .welcome-message h2 {
+            color: white;
+            margin-bottom: 20px;
+        }
+
+        .welcome-message p {
+            font-size: 1.1em;
+            margin-bottom: 15px;
+        }
+
+        .github-link {
+            display: inline-block;
+            background-color: rgba(255,255,255,0.2);
+            color: white;
+            padding: 12px 24px;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 500;
+            margin-top: 20px;
+            transition: background-color 0.3s ease;
+        }
+
+        .github-link:hover {
+            background-color: rgba(255,255,255,0.3);
+        }
+
+        .copyright {
+            text-align: center;
+            padding: 30px;
+            background-color: #2c3e50;
+            color: white;
+            border-radius: 8px;
+            font-size: 0.95em;
+            line-height: 1.6;
+        }
+
+        .copyright p {
+            margin-bottom: 10px;
+        }
+
+        .copyright strong {
+            color: #ecf0f1;
+        }
+
+        .disclaimer {
+            text-align: center;
+            padding: 20px;
+            background-color: #fff3cd;
+            border: 1px solid #ffeaa7;
+            border-radius: 8px;
+            margin: 20px 0;
+            color: #856404;
+            font-size: 0.9em;
+            font-style: italic;
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                margin: 10px;
+                padding: 15px;
+            }
+            
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .chapter-table {
+                font-size: 0.9em;
+            }
+            
+            .chapter-table th,
+            .chapter-table td {
+                padding: 10px 8px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Research Journey</h1>
+            <p>A PhD Student's Guide to Navigating the Research Landscape</p>
+            <p>Author: <strong><a href="https://www.comp.nus.edu.sg/~hebs/"></a>Dr. Bingsheng He</a></strong></p>
+        </div>
+
+        <div class="section">
+            <h2>Why I Wrote This Book</h2>
+            <div class="preface">
+                <p>Almost every undergraduate considering a PhD faces uncertainty. You wonder if you're truly suited for research and whether you can commit several years to such a path. Once in a PhD program, the questions change form: How can I lower research risks? Is there a methodology that leads to impactful work? How do I find the right research topic? How can I avoid paper rejections?</p>
+
+                <p>It is with these questions in mind that I decided to write this book. I want to share my reflections to help new researchers take fewer detours and avoid pitfalls that make the journey unnecessarily painful. Of course, I don't claim to provide a perfect recipe for success—because in research, a "silver bullet" simply doesn't exist.</p>
+
+                <p>One size never fits all. Every person is different, every research direction has its own rhythm, and each field comes with its own culture and challenges. While there are methodologies and best practices that can guide you, they must always be adapted to your personal situation.</p>
+
+                <p>Over the years, one idea has become particularly important to me: research is less about chasing the "optimal" strategy and more about avoiding the worst mistakes. This is similar to systems design—we rarely aim for a perfect solution because such ideals often don't exist or are unstable. Instead, we focus on robustness: preventing failures, surviving unexpected conditions, and ensuring reliable performance under many scenarios.</p>
+
+                <p>This book is not about giving you a guaranteed roadmap to success. Rather, it's about sharing reflections, stories, and lessons that I hope will help you navigate research life with a clearer mind. If you can sidestep even a few of the big traps I'll describe, you'll already be in a much stronger position to grow into the researcher you aspire to become.</p>
+
+                <h3>What You Can Expect</h3>
+                <p>My goal is to share common traps I've seen students fall into, recurring patterns, and lessons learned through my own journey and mentoring others. Research will never be effortless—there will always be challenges, setbacks, and rejections. But by preparing yourself, recognizing patterns, and adopting the right mindset, you can make the road more manageable and turn your PhD journey into an experience that is not only survivable, but deeply rewarding.</p>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2>Table of Contents</h2>
+            <table class="chapter-table">
+                <thead>
+                    <tr>
+                        <th class="chapter-index">Index</th>
+                        <th class="chapter-name">Chapter Name</th>
+                        <th class="chapter-summary">Summary (within 100 words)</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="chapter-index">1</td>
+                        <td class="chapter-name"><a href="#chapter1">The Research Mindset</a></td>
+                        <td class="chapter-summary">Understanding what it truly means to be a researcher in the modern era. This chapter explores the fundamental mindset shifts needed to succeed in academic research, from embracing uncertainty to developing intellectual curiosity and resilience.</td>
+                    </tr>
+                    <tr>
+                        <td class="chapter-index">2</td>
+                        <td class="chapter-name"><a href="#chapter2">Finding Your Research Direction</a></td>
+                        <td class="chapter-summary">Practical strategies for identifying research topics that align with your interests and have potential for impact. Learn how to evaluate problems, assess feasibility, and build expertise in your chosen area.</td>
+                    </tr>
+                    <tr>
+                        <td class="chapter-index">3</td>
+                        <td class="chapter-name"><a href="#chapter3">The Literature Review Process</a></td>
+                        <td class="chapter-summary">Master the art of conducting comprehensive literature reviews. This chapter covers systematic approaches to finding, reading, and synthesizing research papers to build a solid foundation for your work.</td>
+                    </tr>
+                    <tr>
+                        <td class="chapter-index">4</td>
+                        <td class="chapter-name"><a href="#chapter4">Research Methodology and Design</a></td>
+                        <td class="chapter-summary">Learn how to design robust research methodologies that can withstand peer review. Covers experimental design, data collection strategies, and validation techniques across different research paradigms.</td>
+                    </tr>
+                    <tr>
+                        <td class="chapter-index">5</td>
+                        <td class="chapter-name"><a href="#chapter5">Writing and Communication</a></td>
+                        <td class="chapter-summary">Develop skills for clear, compelling academic writing. This chapter addresses paper structure, argumentation, and effective communication of complex ideas to diverse audiences.</td>
+                    </tr>
+                    <tr>
+                        <td class="chapter-index">6</td>
+                        <td class="chapter-name"><a href="#chapter6">Collaboration and Mentorship</a></td>
+                        <td class="chapter-summary">Build productive relationships with advisors, collaborators, and peers. Learn how to navigate different working styles and create mutually beneficial research partnerships.</td>
+                    </tr>
+                    <tr>
+                        <td class="chapter-index">7</td>
+                        <td class="chapter-name"><a href="#chapter7">Dealing with Rejection and Failure</a></td>
+                        <td class="chapter-summary">Develop resilience strategies for handling setbacks in research. Learn how to extract valuable lessons from rejections and use failures as stepping stones to success.</td>
+                    </tr>
+                    <tr>
+                        <td class="chapter-index">8</td>
+                        <td class="chapter-name"><a href="#chapter8">Building Your Research Identity</a></td>
+                        <td class="chapter-summary">Establish your presence in the research community through networking, conference participation, and online engagement. Learn how to build a sustainable research career.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="welcome-message">
+            <p>Your feedback is invaluable to me. If you have suggestions, questions, or would like to share your own experiences, please don't hesitate to reach out through GitHub Issues.</p>
+            <a href="https://github.com/Xtra-Computing/raintreebook/issues" class="github-link">Share Your Feedback on GitHub</a>
+        </div>
+
+        <div class="disclaimer">
+            <p><strong>Disclaimer:</strong> The opinions expressed in this book belong to the author himself and do not reflect the position of his employer.</p>
+            <p><strong>Copyright Notice</strong> This work is distributed for research and educational purposes only. You are free to share, distribute, and use this content for non-commercial research purposes, provided that you attribute the work to the author. For commercial use or any other purposes not covered by this license, please contact the author for permission.</p>
+            <p><strong>Copyright © 2024 - All rights reserved by the author.</strong></p>
+        </div>
+    </div>
+</body>
+</html>
