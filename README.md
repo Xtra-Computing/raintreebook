@@ -34,9 +34,8 @@ My goal is to share common traps I've seen students fall into, recurring pattern
 | 1.1 | [Why Ph.D.](https://docs.google.com/document/d/1dL_0wS5fJs9NiIlOYGJuh22k8dazc7pbYHq3iXquzn4/edit?usp=drive_link) | A guide to deciding on a PhD: reject weak motives, embrace independence and resilience, build deep foundations, seek mentorship, and prioritize depth over volume. Includes a four-year undergrad prep plan, key “don’ts,” application strategy, and reflective exercises. |
 | 1.2 | [Guideline for Visiting Students and Interns in Our Research Group](https://docs.google.com/document/d/157WKVehFn42rRV8FLN9WkaeU5-HOyF-XHmWc6bDCn9o/edit?usp=sharing) | This chapter provides comprehensive guidance for visiting students and interns—covering preparation, research execution, milestones, engagement, and professional conduct—to ensure productive visits, meaningful outcomes, and strong integration within the research group. |
 | 1.3 | [Guidelines for Undergraduate and Master Projects](https://docs.google.com/document/d/1dL_0wS5fJs9NiIlOYGJuh22k8dazc7pbYHq3iXquzn4/edit?usp=drive_link) | This chapter provides structured guidance for undergraduate and master’s projects, covering submission requirements, execution workflow, timelines, and best practices to ensure professional, well-documented, and impactful research outcomes. |
-
 | 2.1 | [Ph.D. Survival Guide (Year 1)](https://docs.google.com/document/d/1yjxc4xLb06YNs_stDaJqaipItgqE_3dy/edit?usp=sharing&ouid=102273595235223474268&rtpof=true&sd=true) | This chapter offers a structured Year-1 roadmap for new PhD students—emphasizing seminar engagement, paper reading, mentorship, collaboration, system skills, and professional habits—to build strong research foundations and independence. |
-
+| 2.2 | [Paper Submission Guideline and Checklist](https://docs.google.com/document/d/1yjxc4xLb06YNs_stDaJqaipItgqE_3dy/edit?usp=sharing&ouid=102273595235223474268&rtpof=true&sd=true) | This chapter outlines a comprehensive guide for managing paper submissions—covering venue compliance, ethical declarations, timeline discipline, co-author coordination, and AI-assisted COI detection—to ensure accuracy, professionalism, and stress-free submission. |
 
 ---
 
@@ -44,7 +43,7 @@ My goal is to share common traps I've seen students fall into, recurring pattern
 
 Thank you for taking the time to explore this book. I hope the insights shared here will help you navigate your research journey with greater confidence and clarity.
 
-Your feedback is invaluable to me. If you have suggestions, questions, or would like to share your own experiences, please don't hesitate to reach out through GitHub Issues.
+Your feedback is invaluable to me. If you have suggestions, questions, or would like to share your own experiences, please don't hesitate to reach out through GitHub Issues, or email me.
 
 Together, we can build a stronger, more supportive research community.
 
