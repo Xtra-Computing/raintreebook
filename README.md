@@ -28,20 +28,15 @@ My goal is to share common traps I've seen students fall into, recurring pattern
 
 ## Table of Contents
 
-| Index | Chapter Name | Summary (within 100 words) |
+| Index | Chapter Name | Summary|
 |-------|--------------|----------------------------|
 | 0 | [Preface](https://docs.google.com/document/d/1HiFF9NFJarE1D39uioxvOi8lMh0E_Dx5skmrnffP-1I/edit?usp=drive_link) | A reflective guide for aspiring researchers to navigate uncertainty, avoid common pitfalls, and build a meaningful, resilient PhD journey. |
-| 1 | [Why Ph.D.](https://docs.google.com/document/d/1dL_0wS5fJs9NiIlOYGJuh22k8dazc7pbYHq3iXquzn4/edit?usp=drive_link) | A candid guide to deciding on a PhD: reject weak motives, embrace independence and resilience, build deep foundations, seek mentorship, and prioritize depth over volume. Includes a four-year undergrad prep plan, key “don’ts,” application strategy, and reflective exercises. |
-| 2 | Prologue | Prologue to set the stage for the guide. |
-| 3 | maintain-literature | How to maintain your literature reading. |
-| 4 | overseas-faculty-guide | Guidance for overseas faculty applications. |
-| 5 | Paper_submission | Key steps in paper submission. |
-| 6 | Postdoc | Considerations for pursuing a postdoc. |
-| 7 | Random_thoughts | Miscellaneous reflections and notes. |
-| 8 | ug-master-project-guideline | Guidelines for UG/Master projects. |
-| 9 | useful-misc-prompts | Helpful prompts for various research tasks. |
-| 10 | VisitingStudentIntern | Guidelines for visiting students and interns. |
-| 11 | Write_research_proposal | How to write a strong research proposal. |
+| 1.1 | [Why Ph.D.](https://docs.google.com/document/d/1dL_0wS5fJs9NiIlOYGJuh22k8dazc7pbYHq3iXquzn4/edit?usp=drive_link) | A guide to deciding on a PhD: reject weak motives, embrace independence and resilience, build deep foundations, seek mentorship, and prioritize depth over volume. Includes a four-year undergrad prep plan, key “don’ts,” application strategy, and reflective exercises. |
+| 1.2 | [Guideline for Visiting Students and Interns in Our Research Group](https://docs.google.com/document/d/157WKVehFn42rRV8FLN9WkaeU5-HOyF-XHmWc6bDCn9o/edit?usp=sharing) | This chapter provides comprehensive guidance for visiting students and interns—covering preparation, research execution, milestones, engagement, and professional conduct—to ensure productive visits, meaningful outcomes, and strong integration within the research group. |
+| 1.3 | [Guidelines for Undergraduate and Master Projects](https://docs.google.com/document/d/1dL_0wS5fJs9NiIlOYGJuh22k8dazc7pbYHq3iXquzn4/edit?usp=drive_link) | This chapter provides structured guidance for undergraduate and master’s projects, covering submission requirements, execution workflow, timelines, and best practices to ensure professional, well-documented, and impactful research outcomes. |
+
+| 2.1 | [Ph.D. Survival Guide (Year 1)](https://docs.google.com/document/d/1yjxc4xLb06YNs_stDaJqaipItgqE_3dy/edit?usp=sharing&ouid=102273595235223474268&rtpof=true&sd=true) | This chapter offers a structured Year-1 roadmap for new PhD students—emphasizing seminar engagement, paper reading, mentorship, collaboration, system skills, and professional habits—to build strong research foundations and independence. |
+
 
 ---
 
