@@ -30,14 +30,18 @@ My goal is to share common traps I've seen students fall into, recurring pattern
 
 | Index | Chapter Name | Summary (within 100 words) |
 |-------|--------------|----------------------------|
-| 1 | [The Research Mindset](#chapter1) | Understanding what it truly means to be a researcher in the modern era. This chapter explores the fundamental mindset shifts needed to succeed in academic research, from embracing uncertainty to developing intellectual curiosity and resilience. |
-| 2 | [Finding Your Research Direction](#chapter2) | Practical strategies for identifying research topics that align with your interests and have potential for impact. Learn how to evaluate problems, assess feasibility, and build expertise in your chosen area. |
-| 3 | [The Literature Review Process](#chapter3) | Master the art of conducting comprehensive literature reviews. This chapter covers systematic approaches to finding, reading, and synthesizing research papers to build a solid foundation for your work. |
-| 4 | [Research Methodology and Design](#chapter4) | Learn how to design robust research methodologies that can withstand peer review. Covers experimental design, data collection strategies, and validation techniques across different research paradigms. |
-| 5 | [Writing and Communication](#chapter5) | Develop skills for clear, compelling academic writing. This chapter addresses paper structure, argumentation, and effective communication of complex ideas to diverse audiences. |
-| 6 | [Collaboration and Mentorship](#chapter6) | Build productive relationships with advisors, collaborators, and peers. Learn how to navigate different working styles and create mutually beneficial research partnerships. |
-| 7 | [Dealing with Rejection and Failure](#chapter7) | Develop resilience strategies for handling setbacks in research. Learn how to extract valuable lessons from rejections and use failures as stepping stones to success. |
-| 8 | [Building Your Research Identity](#chapter8) | Establish your presence in the research community through networking, conference participation, and online engagement. Learn how to build a sustainable research career. |
+| 0 | [Preface](https://docs.google.com/document/d/1HiFF9NFJarE1D39uioxvOi8lMh0E_Dx5skmrnffP-1I/edit?usp=drive_link) | A reflective guide for aspiring researchers to navigate uncertainty, avoid common pitfalls, and build a meaningful, resilient PhD journey. |
+| 1 | [Why Ph.D.](https://docs.google.com/document/d/1dL_0wS5fJs9NiIlOYGJuh22k8dazc7pbYHq3iXquzn4/edit?usp=drive_link) | A candid guide to deciding on a PhD: reject weak motives, embrace independence and resilience, build deep foundations, seek mentorship, and prioritize depth over volume. Includes a four-year undergrad prep plan, key “don’ts,” application strategy, and reflective exercises. |
+| 2 | Prologue | Prologue to set the stage for the guide. |
+| 3 | maintain-literature | How to maintain your literature reading. |
+| 4 | overseas-faculty-guide | Guidance for overseas faculty applications. |
+| 5 | Paper_submission | Key steps in paper submission. |
+| 6 | Postdoc | Considerations for pursuing a postdoc. |
+| 7 | Random_thoughts | Miscellaneous reflections and notes. |
+| 8 | ug-master-project-guideline | Guidelines for UG/Master projects. |
+| 9 | useful-misc-prompts | Helpful prompts for various research tasks. |
+| 10 | VisitingStudentIntern | Guidelines for visiting students and interns. |
+| 11 | Write_research_proposal | How to write a strong research proposal. |
 
 ---
 
@@ -69,7 +73,7 @@ You are free to share, distribute, and use this content for non-commercial resea
 
 For commercial use or any other purposes not covered by this license, please contact the author for permission.
 
-**Copyright © 2024 - All rights reserved by the author.**
+**Copyright © 2025 - All rights reserved by the author.**
 
 ---
 
