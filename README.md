@@ -1,5 +1,4 @@
-# Research Journey
-## A PhD Student's Guide to Navigating the Research Landscape (the alpha version)
+# A PhD Student's Guide to Navigating the Research Landscape (the alpha version)
 
 ---
 
@@ -57,17 +56,13 @@ Together, we can build a stronger, more supportive research community.
 
 ## Disclaimer
 
-**Disclaimer:** The opinions expressed in this book belong to the author himself and do not reflect the position of his employer.
+The opinions expressed in this book belong to the author himself and do not reflect the position of his employer.
 
 ---
 
 ## Copyright Notice
 
-**Copyright Notice**
-
-This work is distributed for research and educational purposes only. You are free to share, distribute, and use this content for non-commercial research purposes, provided that you attribute the work to the author. For commercial use or any other purposes not covered by this license, please contact the author for permission.
-
-**Copyright © 2025 - All rights reserved by the author.**
+This work is distributed for research and educational purposes only. You are free to share, distribute, and use this content for non-commercial research purposes, provided that you attribute the work to the author. For commercial use or any other purposes not covered by this license, please contact the author for permission. Copyright © 2025 - All rights reserved by the author.
 
 ---
 
