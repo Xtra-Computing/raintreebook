@@ -1,5 +1,5 @@
 # Research Journey
-## A PhD Student's Guide to Navigating the Research Landscape
+## A PhD Student's Guide to Navigating the Research Landscape (the alpha version)
 
 ---
 
@@ -47,9 +47,7 @@ My goal is to share common traps I've seen students fall into, recurring pattern
 
 ## Welcome to the Research Community!
 
-Thank you for taking the time to explore this book. I hope the insights shared here will help you navigate your research journey with greater confidence and clarity.
-
-Your feedback is invaluable to me. If you have suggestions, questions, or would like to share your own experiences, please don't hesitate to reach out through GitHub Issues, or email me.
+I aim at building a living book, and it will be updated periodically as my research and supervision goes on. Your feedback is invaluable to me. If you have suggestions, questions, or would like to share your own experiences, please don't hesitate to reach out through GitHub Issues, or email me.
 
 Together, we can build a stronger, more supportive research community.
 
@@ -67,11 +65,7 @@ Together, we can build a stronger, more supportive research community.
 
 **Copyright Notice**
 
-This work is distributed for research and educational purposes only.
-
-You are free to share, distribute, and use this content for non-commercial research purposes, provided that you attribute the work to the author.
-
-For commercial use or any other purposes not covered by this license, please contact the author for permission.
+This work is distributed for research and educational purposes only. You are free to share, distribute, and use this content for non-commercial research purposes, provided that you attribute the work to the author. For commercial use or any other purposes not covered by this license, please contact the author for permission.
 
 **Copyright © 2025 - All rights reserved by the author.**
 
